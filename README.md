@@ -18,16 +18,8 @@
 
 > 
 
-### Paper Publication ###
-- 
-- 
-- 
-
-### Temporary Server for Oliot AgrifoodPedigree ###
--
-
 ### Specification ###
-> Agrifood Pedigree Service 1.0
+> Agrifood Pedigree Service 1.2
 
 > Java 1.8 - JAVA SE
 
@@ -46,4 +38,4 @@
 
 > Maintainer:
 
->> Sangsik Kim, Senior Researcher : sskim98@itc.kaist.ac.kr, sskim98@gmail.com
+>>  name : email
